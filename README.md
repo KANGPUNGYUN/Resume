@@ -9,6 +9,6 @@ https://kangpungyun.github.io/Resume
 
 <details>
 <summary>입상내역</summary>
-![최우수상_강풍윤](https://user-images.githubusercontent.com/71264780/196763415-a2129847-4712-4d95-b0c0-08eab3cc28ba.png)
+![최우수상_강풍윤](https://user-images.githubusercontent.com/71264780/198709197-14a29d3b-34fa-493a-9ede-66ff8b6e7236.png)
 </details>
 
