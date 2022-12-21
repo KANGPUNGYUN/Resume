@@ -7,8 +7,7 @@ https://kangpungyun.github.io/Resume
 구현 화면
 ![스크린샷 2022-10-03 오후 11 11 28](https://user-images.githubusercontent.com/71264780/193604395-a03641e8-7a48-4c97-ba7a-a35c358d58c9.png)
 
-<details>
-<summary>입상내역</summary>
+수상내역
 ![최우수상_강풍윤](https://user-images.githubusercontent.com/71264780/198709197-14a29d3b-34fa-493a-9ede-66ff8b6e7236.png)
-</details>
+
 
